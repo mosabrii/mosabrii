@@ -23,13 +23,13 @@ Defensive Security | Threat Analysis | Incident Monitoring
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://linkedin.com/in/mosabrii">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://youtube.com/@mosabrrii">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
