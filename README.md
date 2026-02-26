@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZTQzOWt2ZHAxbjFmeWo5enVtMnFjZGVxZzcxdnh5MXQxNXQwaGNvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" width="600"/>
-</p>
-
-# Mohamed Sabry
+# Hi, I'm Mohamed Sabry
 
 ## Defensive Security | Threat Analysis | Incident Monitoring
 
